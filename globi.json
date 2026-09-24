@@ -12,7 +12,7 @@
     "dcterms:bibliographicCitation" : "Riquelme, C. (2026). mycoBaseCL: An Updated Catalogue of the Fungi of Chile (Version 1.0) [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.19702115",
     "delimiter" : "\t",
     "headerRowCount" : 1,
-    "null" : [ "" ],
+    "null" : [ "null", "" ],
     "tableSchema" : {
       "columns" : [ {
         "name" : "http://www.w3.org/ns/prov#wasDerivedFrom",
